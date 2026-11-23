@@ -25,6 +25,7 @@ python3 -m http.server 8000
 ## Важные ограничения
 Это frontend-прототип. Реальной серверной авторизации, безопасного хранения паролей, отправки файлов на сервер, проверки структуры таблиц и генерации расписания нет. Сведения об аккаунте и список метаданных выбранных файлов хранятся только в localStorage текущего браузера. Само содержимое файлов не загружается и не сохраняется. Не используйте реальные пароли.
 
-## FIGMA (link) 
-- https://www.figma.com/design/SVZHBRRencq4c7jkR7wZwN/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D1%82-Z%D0%98%D0%9C%D0%90MEDIA--Community-?node-id=0-1&t=0zDogTXdnY2R3DNH-1
+## Ссылки:  
+- `Figma` - https://www.figma.com/design/SVZHBRRencq4c7jkR7wZwN/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D1%82-Z%D0%98%D0%9C%D0%90MEDIA--Community-?node-id=0-1&t=0zDogTXdnY2R3DNH-1
+- `Презентация` - https://disk.yandex.ru/i/3V4cEsZNU8WIsg
   
